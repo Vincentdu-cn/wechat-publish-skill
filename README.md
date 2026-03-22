@@ -1,6 +1,6 @@
 # WeChat Publish Skill
 
-将 Markdown 文章发布到微信公众号草稿箱的 nanobot skill。
+将 Markdown 文章发布到微信公众号草稿箱的 skill。
 
 ## 功能特点
 
@@ -71,7 +71,6 @@ wechat-publish/
 ├── scripts/
 │   ├── publish.py          # 主发布脚本
 │   ├── install.sh          # 安装脚本
-│   ├── quick_test.sh       # 快速测试脚本
 │   └── wechat-md/          # Markdown 渲染引擎
 │       ├── src/
 │       ├── package.json
