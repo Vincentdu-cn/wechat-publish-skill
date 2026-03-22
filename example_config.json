@@ -1,0 +1,19 @@
+{
+  "wechat": {
+    "appid": "你的 AppID",
+    "secret": "你的 Secret"
+  },
+  "image": {
+    "provider": "modelscope",
+    "api_key": "你的 API Key",
+    "base_url": "https://api-inference.modelscope.cn/",
+    "default_model": "你的模型名称",
+    "default_size": "1920x1080"
+  },
+  "html": {
+    "default_theme": "autumn-warm",
+    "api_key": "你的 LLM API Key",
+    "base_url": "https://your-llm-api.com/v1",
+    "model": "gpt-4o-mini"
+  }
+}
