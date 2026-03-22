@@ -90,6 +90,9 @@ wechat-publish/
 - 微信公众号 AppID 和 Secret
 - ModelScope API Key（用于 AI 图片生成）
 
+## 参考
+- https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-markdown-to-html
+- https://github.com/geekjourneyx/md2wechat-skill
 ## License
 
 MIT
